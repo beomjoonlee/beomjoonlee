@@ -7,6 +7,6 @@
   - Autonomous Mobile Robot  
   - Manipulation  
   - Multi-robot Systems 
-## 📫 If you want to more about Me,
+## 📫 If you want to know more about Me,
 * **Mail: Contact qjawnsdl08@gmail.com**  
 * **Blog: Visit [Here](linktr.ee/jason_lbj)**
