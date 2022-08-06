@@ -1,4 +1,12 @@
-# 👋 Hi, I'm Beomjoon Lee.  
-# 🌱 I’m a South Korean Graduate Student Researcher in Robotics.  
-# 👀 My research interests are Autonomous Mobile Robot, Manipulation, Multi-robot Systems.  
-# 📫 If you want to know more about me, visit [Here](linktr.ee/jason_lbj)  
+## 👋 Hi, I'm Beomjoon Lee.  
+## 🌱 I'm a Graduate Student Researcher in AI Robotics  
+## 🔭 My Research Interests are
+* **AI**  
+  - Reinforcement Learning    
+* **Robotics**  
+  - Autonomous Mobile Robot  
+  - Manipulation  
+  - Multi-robot Systems 
+## 📫 If you want to more about Me,
+* **Mail: Contact qjawnsdl08@gmail.com**  
+* **Blog: Visit [Here](linktr.ee/jason_lbj)**
