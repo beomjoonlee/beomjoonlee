@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Beomjoon Lee.  
-## 🌱 I'm a Graduate Student Researcher in AI Robotics  
+## 🌱 I'm a Graduate Student Researcher in AI Robotics.  
 ## 🔭 My Research Interests are
 * **AI**  
   - Reinforcement Learning    
