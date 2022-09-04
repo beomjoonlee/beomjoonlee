@@ -8,5 +8,5 @@
   - Manipulation  
   - Multi-robot Systems 
 ## 📫 If you want to know more about Me,
-* **Mail: Contact beomjoon.b.lee@gmail.com**  
+* **Email: Contact by [Email](beomjoon.b.lee@gmail.com)**  
 * **Blog: Visit [Here](https://linktr.ee/jason_lbj)**
