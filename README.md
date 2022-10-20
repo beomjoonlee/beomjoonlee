@@ -9,4 +9,4 @@
   - Multi-robot Systems 
 ## 📫 If you want to know more about Me,
 * **Email: Contact beomjoon.b.lee@gmail.com**  
-* **Blog: Visit https://linktr.ee/jason_lbj**
+* **Blog: Visit https://sites.google.com/view/beomjoonlee**
