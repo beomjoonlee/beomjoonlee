@@ -3,10 +3,10 @@
 ## 🔭 My Research Interests are
 * **AI**  
   - Reinforcement Learning    
-* **Robotics**  
-  - Autonomous Mobile Robot  
+* **Robotics**    
   - Manipulation  
-  - Multi-robot Systems 
+  - Multi-robot Systems
+  - Autonomous Mobile Robot (past)
 ## 📫 If you want to know more about Me,
 * **Email: Contact beomjoon.b.lee@gmail.com**  
 * **Blog: Visit https://sites.google.com/view/beomjoonlee**
