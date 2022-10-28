@@ -6,6 +6,7 @@
 * **Robotics**    
   - Manipulation  
   - Multi-robot Systems
+  - Task and Motion Planning
   - Autonomous Mobile Robot (past)
 ## 📫 If you want to know more about Me,
 * **Email: Contact beomjoon.b.lee@gmail.com**  
